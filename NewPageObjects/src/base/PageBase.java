@@ -17,7 +17,7 @@ public class PageBase {
 
 
     public PageBase (){
-        //Default constructor for class extension
+        //Default constructor for class extensionfvfg
     }
     
     public PageBase(WebDriver driver){
